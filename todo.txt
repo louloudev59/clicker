@@ -1,0 +1,5 @@
+- Créez un chargeur de niveaux.
+- Créez quelques niveaux.
+- Mettez en place un meilleur système de récompenses.
+- Ajoutez la prise en charge de sauvegarde pour le mini-jeu.
+- Reléguez le système de prestige actuel aux profondeurs les plus sombres de l'enfer.
