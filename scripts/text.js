@@ -171,17 +171,6 @@ function prestigeConstructor() {
             sentencesDisplayed: 0
         };
         this.display = {
-            // Text = http://patorjk.com/software/taag/#p=display&f=Banner4&t=Type%20Something%20
-            // A 2d array: message[x][y], x are sentences, y are rows of characters in the sentence.
-            /*
-        Hello.
-        You are inside.
-        Your existence will be satisfactory.
-        You are encouraged to live a data rich life.
-        Please try to obey the laws of thermodynamics.
-        Interdiction of data will not be tolerated.
-        Have you considered simulating a universe?
-        */
             message: [
             [
             '.............................................................................................................................................................................................................................................................................................................................................................................................',
